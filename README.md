@@ -1,5 +1,5 @@
 ### Hi there, I'm Suraj - aka [Suraez][website] 👋
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Suraez.Suraez) [![GitHub followers](https://img.shields.io/github/followers/suraez?label=Follow&style=social)](https://github.com/suraez?tab=followers)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Suraez.Suraez) [![GitHub followers](https://img.shields.io/github/followers/suraez?label=Follow&style=social)](https://github.com/suraez?tab=followers)  
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Suraez&count_private=true&show_icons=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraez&layout=compact)
 
