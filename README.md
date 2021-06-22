@@ -1,10 +1,15 @@
 ### Hi there, I'm Suraj - aka [Suraez][website] 👋
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Suraez.Suraez) [![GitHub followers](https://img.shields.io/github/followers/suraez?label=Follow&style=social)](https://github.com/suraez?tab=followers)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Suraez&count_private=true&show_icons=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraez&layout=compact)
+
+
 
 ## I'm a Student, Developer, and YouTuber!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers.
-- ⚡ Fun fact: I love to watch movies, to listen to songs.
+- 🧑🏻‍💻 I’m looking to collaborate with other developers.
+- 😍 Fun fact: I love to watch movies, to listen to songs 🎧.
 
 ### Connect with me:
 
