@@ -1,13 +1,13 @@
 ### Hi there, I'm Suraj - aka [Suraez][website] 👋
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Suraez.Suraez) [![GitHub followers](https://img.shields.io/github/followers/suraez?label=Follow&style=social)](https://github.com/suraez?tab=followers) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraez&layout=compact)
+ <br />
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Suraez.Suraez) [![GitHub followers](https://img.shields.io/github/followers/suraez?label=Follow&style=social)](https://github.com/suraez?tab=followers)
 
 
-
-## I'm a Software Engineer and YouTuber!
+## I'm a PhD student at NJIT!
 
 - 🌱 I’m currently learning everything 🤣
-- 🧑🏻‍💻 I’m looking to collaborate with other developers.
+- 🧑🏻‍💻 I’m looking to collaborate with researchers in the field of Cloud Computing.
 - 😍 Fun fact: I love to watch movies, to listen to songs 🎧.
 
 ### Connect with me:
@@ -53,7 +53,7 @@
 
 ---
 
-[website]: https://imojha.me/
+[website]: https://sko.com.np/
 [twitter]: https://twitter.com/OberaiSurazz
 [youtube]: https://www.youtube.com/channel/UCSyTeQpRGhi8VKX1MN2BDxA?view_as=subscriber
 [instagram]: https://www.instagram.com/cyberking_suraj/
