@@ -22,39 +22,35 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="React" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
 [<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="80px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+[<img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/docker/docker.png" />][website]
+[<img align="left" alt="Kubernetes" width="50px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />][website]
+[<img align="left" alt="Grafana" width="50px" src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" />][website]
 
 <br />
 <br />
 
 ---
-
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Top 3 websites for practising programming - URI Online Judge, HackerRrank, and Code Forces.](https://youtu.be/8XuQy5WrXrA)
-- [Corona Tracker Web App: How to build a CORONAVIRUS (COVID19) tracker web app for NEPAL in Python?](https://youtu.be/pE0qOr64Pqo)
-- [Build a portfolio website and deploy it using GitHub pages](https://youtu.be/7HpCM1_26UA)
-- [GitHub Education Pack - Get your amazing web services for free](https://youtu.be/j7WM71FZS8k)
+- [Manage multiple versions of different programming languages with just one tool - asdf.](https://www.youtube.com/watch?v=z2oBT-_hyNY&t=580s)
+- [Fix Termius Installation Errors on Ubuntu 24.04 LTS & Feature Walkthrough](https://www.youtube.com/watch?v=kggOZKGJUZI&t=50s)
+- [Learn Ansible By Doing: Hands-On Crash Course for Beginners](https://www.youtube.com/watch?v=LejfhKjlC7c&t=14s)
+- [Install Go and Its Set Up in VS Code in Under 5 Minutes! 🚀 ](https://www.youtube.com/watch?v=m6k1sprtsX4&t=80s)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCSyTeQpRGhi8VKX1MN2BDxA?view_as=subscriber)
-
----
+➡️ [more videos...](https://www.youtube.com/@surajoberai)
 
 ---
 
 [website]: https://sko.com.np/
 [twitter]: https://twitter.com/OberaiSurazz
-[youtube]: https://www.youtube.com/channel/UCSyTeQpRGhi8VKX1MN2BDxA?view_as=subscriber
+[youtube]: https://www.youtube.com/@surajoberai
 [instagram]: https://www.instagram.com/cyberking_suraj/
 [linkedin]: https://www.linkedin.com/in/suraj-ojha/
