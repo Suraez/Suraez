@@ -10,14 +10,15 @@
 - 🧑🏻‍💻 I’m looking to collaborate with researchers in the field of Cloud Computing.
 - 😍 Fun fact: I love to watch movies, to listen to songs 🎧.
 
-### Connect with me:
+
+<!-- ### Connect with me:
 
 [<img align="left" alt="Suraez | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
 [<img align="left" alt="Suraez | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
 [<img align="left" alt="Suraez | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
 [<img align="left" alt="Suraez | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
-
+-->
 <br />
 
 ### Languages and Tools:
