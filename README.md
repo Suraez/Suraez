@@ -4,7 +4,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Suraez.Suraez) [![GitHub followers](https://img.shields.io/github/followers/suraez?label=Follow&style=social)](https://github.com/suraez?tab=followers)
 
 
-## I'm a PhD student at NJIT!
+## I'm a PhD student!
 
 - 🌱 I’m currently learning everything 🤣
 - 🧑🏻‍💻 I’m looking to collaborate with researchers in the field of Cloud Computing.
