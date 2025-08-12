@@ -37,22 +37,25 @@
 <br />
 
 ---
-### 📺 Latest YouTube Videos
 
+<!--
+### 📺 Latest YouTube Videos
+-->
 <!-- YOUTUBE:START -->
+
+<!--
 - [Manage multiple versions of different programming languages with just one tool - asdf.](https://www.youtube.com/watch?v=z2oBT-_hyNY&t=580s)
 - [Fix Termius Installation Errors on Ubuntu 24.04 LTS & Feature Walkthrough](https://www.youtube.com/watch?v=kggOZKGJUZI&t=50s)
 - [Learn Ansible By Doing: Hands-On Crash Course for Beginners](https://www.youtube.com/watch?v=LejfhKjlC7c&t=14s)
 - [Install Go and Its Set Up in VS Code in Under 5 Minutes! 🚀 ](https://www.youtube.com/watch?v=m6k1sprtsX4&t=80s)
+-->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/@surajoberai)
 
+➡️ [more videos...](https://www.youtube.com/@surajoberai)
 ---
 
-[website]: https://sko.com.np/
+
 [twitter]: https://twitter.com/OberaiSurazz
-[youtube]: https://www.youtube.com/@surajoberai
-[instagram]: https://www.instagram.com/cyberking_suraj/
 [linkedin]: https://www.linkedin.com/in/suraj-ojha/
 [email]: mailto:so299@njit.edu
